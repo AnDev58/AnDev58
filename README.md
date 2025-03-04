@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-My name is Andrew and... there are no interesting projects in my account. But they exisis. In *BIQ-Cat* organisation.
+My name is Andrew and... there are nothing interesting in my account. But they exisis. In *BIQ-Cat* organisation.
 
-The **most** interesting project I've ever done is EasyServer
+The **most** interesting project I've ever done is [EasyServer](https://github.com/BIQ-Cat/EasyServer)
+Also you may check out a hippodrome754 - a small quiz game inspired from Perimeter
 
 <!--
 **AnDev58/AnDev58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
